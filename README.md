@@ -11,3 +11,16 @@ We aim to be an organization that encourages knowledge-sharing — a place w
 We aim to be a close-knit group that may, (hopefully)one day, regularly put the Philippines in the international CTF world map. 
 
 We hope that through this group, we may be able to share our knowledge to fellow countrymen — especially the younger generations — so that someday, they may carry the same ambition and goals that we had when we formed this team.
+
+# Team Members
+
+**hightail**<br /> 
+**ameer**<br />
+**oR10n**<br />
+**ar33zy**<br />
+**atom**<br />
+**hackett**<br />
+**hawkcurry**<br />
+**nats**<br />
+**Nihil**<br />
+**SymR**<br />
