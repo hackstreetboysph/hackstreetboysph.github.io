@@ -17,7 +17,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | name        | expertise          | links |
 |:-------------|:------------------|:------|
 | [**hightail**](https://ctftime.org/user/27765) | `forensics` | [GitHub](https://github.com/monliclican) / [Blog](https://medium.com/@monliclican)  |
-| [**ameer**](https://ctftime.org/user/44107) | `skill`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/)  |
+| [**ameer**](https://ctftime.org/user/44107) | `jack of all trades`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/)  |
 | [**oR10n**](https://ctftime.org/user/27824) | `skill`      | -   |
 | [**ar33zy**](https://ctftime.org/user/38734) | `pwn` | [GitHub](https://github.com/ar33zy) / [Blog](https://medium.com/@ar33zy)  |
 | [**atom**](https://ctftime.org/user/31677) | `web` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://medium.com/@ajdumanhug)  |
