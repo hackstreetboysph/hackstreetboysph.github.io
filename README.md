@@ -1,5 +1,7 @@
 # hackstreetboys
 
+![hsb](https://i.imgur.com/X5q5l2i.jpg)
+
 hackstreetboys aka [hsb] is a CTF team from the Philippines.
 
 The team was created with the high ambition of being the country's premier CTF team.
