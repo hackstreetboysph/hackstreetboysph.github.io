@@ -26,5 +26,5 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | [**hackett**](https://ctftime.org/user/45247) | `skill` | -  |
 | [**hawkcurry**](https://ctftime.org/user/44130) | `cryptography` | [GitHub](https://github.com/pberba) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26847) |
 | [**nats**](https://ctftime.org/user/46414) | `skill` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
-| **Nihil** | `skill` | -  |
+| **Nihil** | `web` | -  |
 | **SymR** | `skill` | [HackTheBox](https://www.hackthebox.eu/home/users/profile/50201) |
