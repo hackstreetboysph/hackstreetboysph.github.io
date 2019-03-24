@@ -33,12 +33,13 @@ We hope that through this group, we may be able to share our knowledge to fellow
 
 | CTF                                       | Date                                 |
 |:------------------------------------------|:-------------------------------------|
+| Securinets CTF Quals 2019, 23rd place     |                    Online, Mar. 2019 |
 | X-MAS CTF 2018, 10th place                |                    Online, Dec. 2018 |
 | OtterCTF, 17th place                      |                    Online, Dec. 2018 |
 | Metasploit Community CTF, 14th place      |                    Online, Nov. 2018 |
 | ROOTCON 12 CTF, 1st place ([hsb]Team Harambae)|              Philippines, Sep. 2018 |
 | ROOTCON 12 CTF, 2nd place ([hsb]Ethical Hackers Club)|    Philippines, Sep. 2018 |
-| ROOTCON 12 CTF, 3nd place ([hsb]hackdog)  |               Philippines, Sep. 2018 |
+| ROOTCON 12 CTF, 3rd place ([hsb]hackdog)  |               Philippines, Sep. 2018 |
 | Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier, 28th place | Online, Sep. 2018 |
 | SEC-T CTF, 15th place                     |                    Online, Sep. 2018 |
 | noxCTF 2018, 12th place                   |                    Online, Sep. 2018 |
