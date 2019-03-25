@@ -19,7 +19,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | name        | expertise          | links |
 |:-------------|:------------------|:------|
 | [**hightail**](https://ctftime.org/user/27765) | `forensics` `steganography` | [Twitter](https://twitter.com/mzer0n) / [GitHub](https://github.com/monliclican) / [Blog](https://medium.com/@monliclican) |
-| [**ameer**](https://ethicalhackers.club/) | `sleeping` `eating`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
+| [**ameer**](https://ethicalhackers.club/) | `sleeping` `eating` `daydreaming`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
 | [**oR10n**](https://ctftime.org/user/27824) | `forensics` `reversing`      | [HackTheBox](https://www.hackthebox.eu/home/users/profile/12604)  |
 | [**ar33zy**](https://ctftime.org/user/38734) | `pwn` `reversing` | [GitHub](https://github.com/ar33zy) / [Blog](https://medium.com/@ar33zy) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26849) |
 | [**atom**](https://ctftime.org/user/31677) | `web` `steganography` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://medium.com/@ajdumanhug) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/55589) |
