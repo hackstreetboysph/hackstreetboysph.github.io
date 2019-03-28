@@ -28,7 +28,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | [**nats**](https://ctftime.org/user/46414) | `jack of all trades` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
 | **Nihil** | `web` | -  |
 | **SymR** | `jack of all trades` | [HackTheBox](https://www.hackthebox.eu/home/users/profile/50201) |
-| **s4t4n** | `jack of all trades` | - |
+| **s4t4n** | `water boy` | [Twitter](https://twitter.com/s4t4n0x5f7068) |
 
 # Selected CTF Events Awards
 
