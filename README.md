@@ -25,7 +25,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | [**atom**](https://ctftime.org/user/31677) | `getting girls' mobile number` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://medium.com/@ajdumanhug) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/55589) |
 | [**hackett**](https://ctftime.org/user/45247) | `skill` | -  |
 | [**hawkcurry**](https://ctftime.org/user/44130) | `cryptography` | [GitHub](https://github.com/pberba) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26847) |
-| [**nats**](https://ctftime.org/user/46414) | `jack of all trades` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
+| [**nats**](https://ctftime.org/user/46414) | `jack of all trades` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [Blog](https://nandtech.co) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
 | **Nihil** | `web` | -  |
 | **SymR** | `jack of all trades` | [HackTheBox](https://www.hackthebox.eu/home/users/profile/50201) |
 | **s4t4n** | `water boy` | [Twitter](https://twitter.com/s4t4n0x5f7068) |
