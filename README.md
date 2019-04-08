@@ -34,14 +34,15 @@ We hope that through this group, we may be able to share our knowledge to fellow
 
 | CTF                                       | Place      | Date                                 |
 |:------------------------------------------|:----------:|:-------------------------------------|
-| Securinets CTF Quals 2019                 | 23rd Place |                    Online, Mar. 2019 |
-| X-MAS CTF 2018                            | 10th Place |                    Online, Dec. 2018 |
-| OtterCTF                                  | 17th Place |                  Online, Dec. 2018 |
-| Metasploit Community CTF                  | 14th Place |                   Online, Nov. 2018 |
-| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st Place  |             Philippines, Sep. 2018 |
-| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd Place  |    Philippines, Sep. 2018 |
-| ROOTCON 12 CTF ([hsb]hackdog)             | 3rd Place  |              Philippines, Sep. 2018 |
+| CBM CTF 2019                              | 9th  |                    Online, Apr. 2019 |
+| Securinets CTF Quals 2019                 | 23rd |                    Online, Mar. 2019 |
+| X-MAS CTF 2018                            | 10th |                    Online, Dec. 2018 |
+| OtterCTF                                  | 17th |                  Online, Dec. 2018 |
+| Metasploit Community CTF                  | 14th |                   Online, Nov. 2018 |
+| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             Philippines, Sep. 2018 |
+| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    Philippines, Sep. 2018 |
+| ROOTCON 12 CTF ([hsb]hackdog)             | 3rd  |              Philippines, Sep. 2018 |
 | Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier | 28th Place | Online, Sep. 2018 |
-| SEC-T CTF                                 | 15th Place |                   Online, Sep. 2018 |
-| noxCTF 2018                               | 12th Place |                   Online, Sep. 2018 |
+| SEC-T CTF                                 | 15th |                   Online, Sep. 2018 |
+| noxCTF 2018                               | 12th |                   Online, Sep. 2018 |
 
