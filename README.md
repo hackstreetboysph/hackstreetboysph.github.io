@@ -42,7 +42,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             Philippines, Sep. 2018 |
 | ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    Philippines, Sep. 2018 |
 | ROOTCON 12 CTF ([hsb]hackdog)             | 3rd  |              Philippines, Sep. 2018 |
-| Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier | 28th Place | Online, Sep. 2018 |
+| Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier | 28th | Online, Sep. 2018 |
 | SEC-T CTF                                 | 15th |                   Online, Sep. 2018 |
 | noxCTF 2018                               | 12th |                   Online, Sep. 2018 |
 
