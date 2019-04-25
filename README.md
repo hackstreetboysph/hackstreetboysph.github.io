@@ -34,6 +34,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 
 | CTF                                       | Place      | Date                                 |
 |:------------------------------------------|:----------:|:-------------------------------------|
+| TG:HACK 2019                              | 25th |                    Online, Apr. 2019 |
 | CBM CTF 2019                              | 9th  |                    Online, Apr. 2019 |
 | Securinets CTF Quals 2019                 | 23rd |                    Online, Mar. 2019 |
 | X-MAS CTF 2018                            | 10th |                    Online, Dec. 2018 |
