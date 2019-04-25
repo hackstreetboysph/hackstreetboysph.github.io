@@ -44,9 +44,9 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | OtterCTF                                  | 17th |                  Online, Dec. 2018 | [Read](https://medium.com/hackstreetboys/defcon-dfir-ctf-2018-lessons-learned-890ef781b96c) |
 | Metasploit Community CTF                  | 14th |                   Online, Nov. 2018 | [Read](https://ethicalhackers.club/metasploit-community-ctf-2018-2-of-diamonds-write-up/) |
 | RITSEC CTF 2019                           | 16th |                   Online, Nov. 2018 | [Read](https://medium.com/hackstreetboys/hackstreetboys-x-mas-ctf-write-up-for-web-web-crypto-and-others-46df2a635a90) |
-| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             Philippines, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
-| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    Philippines, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
-| ROOTCON 12 CTF ([hsb]hackdog)             | 3rd  |              Philippines, Sep. 2018 |
+| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             PH, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
+| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    PH, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
+| ROOTCON 12 CTF ([hsb]hackdog)             | 3rd  |              PH, Sep. 2018 |
 | Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier | 28th | Online, Sep. 2018 |
 | SEC-T CTF                                 | 15th |                   Online, Sep. 2018 |
 | noxCTF 2018                               | 12th |                   Online, Sep. 2018 |
