@@ -32,16 +32,20 @@ We hope that through this group, we may be able to share our knowledge to fellow
 
 # Selected CTF Events Awards
 
-| CTF                                       | Place      | Date                                 |
-|:------------------------------------------|:----------:|:-------------------------------------|
-| TG:HACK 2019                              | 25th |                    Online, Apr. 2019 |
-| CBM CTF 2019                              | 9th  |                    Online, Apr. 2019 |
-| Securinets CTF Quals 2019                 | 23rd |                    Online, Mar. 2019 |
-| X-MAS CTF 2018                            | 10th |                    Online, Dec. 2018 |
-| OtterCTF                                  | 17th |                  Online, Dec. 2018 |
-| Metasploit Community CTF                  | 14th |                   Online, Nov. 2018 |
-| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             Philippines, Sep. 2018 |
-| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    Philippines, Sep. 2018 |
+| CTF                                       | Place      | Date                                 | Write-Ups |
+|:------------------------------------------|:----------:|:-------------------------------------:|:---------|
+| ASIS CTF QUALS 2019                       | 50th |                    Online, Apr. 2019 | [Read](https://medium.com/hackstreetboys/tagged/asis-ctf-2019) |
+| TG:HACK 2019                              | 25th |                    Online, Apr. 2019 | [Read](https://medium.com/hackstreetboys/tagged/tghack2019) |
+| CBM CTF 2019                              | 9th  |                    Online, Apr. 2019 | [Read](https://medium.com/hackstreetboys/tagged/cbmctf2019) |
+| RADAR CTF 2019                            | 22nd |                    Online, Apr. 2019 | [Read](https://medium.com/hackstreetboys/tagged/radar2019) |
+| Encrypt CTF 2019                          | 52nd |                    Online, Apr. 2019 | [Read](https://medium.com/hackstreetboys/tagged/encrypt2019) |
+| Securinets CTF Quals 2019                 | 23rd |                    Online, Mar. 2019 | [Read](https://medium.com/hackstreetboys/tagged/securinets) |
+| X-MAS CTF 2018                            | 10th |                    Online, Dec. 2018 | [Read](https://medium.com/hackstreetboys/hackstreetboys-x-mas-ctf-write-up-for-web-web-crypto-and-others-46df2a635a90) |
+| OtterCTF                                  | 17th |                  Online, Dec. 2018 | [Read](https://medium.com/hackstreetboys/defcon-dfir-ctf-2018-lessons-learned-890ef781b96c) |
+| Metasploit Community CTF                  | 14th |                   Online, Nov. 2018 | [Read](https://ethicalhackers.club/metasploit-community-ctf-2018-2-of-diamonds-write-up/) |
+| RITSEC CTF 2019                           | 16th |                   Online, Nov. 2018 | [Read](https://medium.com/hackstreetboys/hackstreetboys-x-mas-ctf-write-up-for-web-web-crypto-and-others-46df2a635a90) |
+| ROOTCON 12 CTF ([hsb]Team Harambae)       | 1st  |             Philippines, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
+| ROOTCON 12 CTF ([hsb]Ethical Hackers Club)| 2nd  |    Philippines, Sep. 2018 | [Read](https://medium.com/hackstreetboys/tagged/rootcon) |
 | ROOTCON 12 CTF ([hsb]hackdog)             | 3rd  |              Philippines, Sep. 2018 |
 | Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier | 28th | Online, Sep. 2018 |
 | SEC-T CTF                                 | 15th |                   Online, Sep. 2018 |
