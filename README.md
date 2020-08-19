@@ -16,19 +16,22 @@ We hope that through this group, we may be able to share our knowledge to fellow
 
 # Team Members
 
-| name        | expertise          | links |
+| name        | certifications          | links |
 |:-------------|:------------------|:------|
-| [**hightail**](https://ctftime.org/user/27765) | `forensics` `steganography` | [Twitter](https://twitter.com/mzer0n) / [GitHub](https://github.com/monliclican) / [Blog](https://medium.com/@monliclican) |
-| [**ameer**](https://ethicalhackers.club/) | `sleeping` `eating` `daydreaming`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
-| [**oR10n**](https://ctftime.org/user/27824) | `forensics` `reversing`      | [HackTheBox](https://www.hackthebox.eu/home/users/profile/12604)  |
-| [**ar33zy**](https://ctftime.org/user/38734) | `pwn` `reversing` | [GitHub](https://github.com/ar33zy) / [Blog](https://medium.com/@ar33zy) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26849) |
-| [**atom**](https://ctftime.org/user/31677) | `getting girls' mobile number` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://medium.com/@ajdumanhug) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/55589) |
-| [**hackett**](https://ctftime.org/user/45247) | `skill` | -  |
-| [**hawkcurry**](https://ctftime.org/user/44130) | `crypto` `misc` | [Blog](https://pberba.github.io/) / [GitHub](https://github.com/pberba) |
-| [**nats**](https://ctftime.org/user/46414) | `jack of all trades` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [Blog](https://nandtech.co) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
-| **Nihil** | `web` | -  |
-| **SymR** | `jack of all trades` | [HackTheBox](https://www.hackthebox.eu/home/users/profile/50201) |
-| **s4t4n** | `water boy` | [Twitter](https://twitter.com/s4t4n0x5f7068) |
+| [**hightail**](https://www.linkedin.com/in/monliclican/) | `GCFA` / `GREM` / `GDAT` / `GMON` | [Twitter](https://twitter.com/mzer0n) / [GitHub](https://github.com/monliclican) / [Blog](https://medium.com/@monliclican) |
+| [**ameer**](https://www.linkedin.com/in/ameerp/) | `CCNA` / `OSCP` / `OSCE`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
+| [**oR10n**](https://www.linkedin.com/in/ervinjamesocampo/) | `OSCP` / | [HackTheBox](https://www.hackthebox.eu/home/users/profile/12604)  |
+| [**ar33zy**](https://www.linkedin.com/in/ariz-soriano-a361ba115/) | `GCDA` / `CRTP` | [GitHub](https://github.com/ar33zy) / [Blog](https://ar33zy.hackstreetboys.ph/) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26849) |
+| [**atom**](https://www.linkedin.com/in/allanjaydumanhug/) | `CEH` / `ECSA` / `OSCP` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://atom.hackstreetboys.ph/) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/55589) |
+| [**hackett**](https://www.linkedin.com/in/jacarandang/) | - | - |
+| [**hawkcurry**](https://www.linkedin.com/in/pberba/) | `GMON` /  `CCSK` | [Blog](https://pberba.github.io/) / [GitHub](https://github.com/pberba) |
+| [**nats**](https://www.linkedin.com/in/nathunandwani/) | `CCNA CyberOps` / `CRT` / `CPSA` / `OSCP` / `OSCE` / `OSWE` | [Twitter](https://twitter.com/nandwaninathu) / [GitHub](https://github.com/nathunandwani) / [Blog](https://nandtech.co) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/19087) |
+| **Nihil** |- | -  |
+| [**SymR**](https://www.linkedin.com/in/faomendoza/) | - | [HackTheBox](https://www.hackthebox.eu/home/users/profile/50201) |
+| **s4t4n** | `OSCP` / `OSCE` / `OSWE` | [Twitter](https://twitter.com/s4t4n0x5f7068) |
+| [**Shintaro**](https://www.linkedin.com/in/ijdpuzon/) | `OSCP` / `OSWE` / `CCNA` / `CCNA CyberOps` / | - |
+| [**Res0lu7ion**](https://www.linkedin.com/in/marc-frigillana-894664102/) | - | - |
+| **sif0** | - | - |
 
 # Selected CTF Events Awards
 
