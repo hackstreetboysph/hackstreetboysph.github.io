@@ -19,7 +19,7 @@ We hope that through this group, we may be able to share our knowledge to fellow
 | name        | certifications          | links |
 |:-------------|:------------------|:------|
 | [**hightail**](https://www.linkedin.com/in/monliclican/) | `GCFA` / `GREM` / `GDAT` / `GMON` | [Twitter](https://twitter.com/mzer0n) / [GitHub](https://github.com/monliclican) / [Blog](https://medium.com/@monliclican) |
-| [**ameer**](https://www.linkedin.com/in/ameerp/) | `CCNA` / `OSCP` / `OSCE`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Blog](https://ethicalhackers.club/) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
+| [**ameer**](https://www.linkedin.com/in/ameerp/) | `CCNA` / `OSCP` / `OSCE` / `OSWE`  | [Twitter](https://twitter.com/ameerpornillos) / [GitHub](https://github.com/ameerpornillos) / [Youtube](https://www.youtube.com/c/EthicalHackersClub) / [HackTheBox](https://www.hackthebox.eu/profile/7252) |
 | [**oR10n**](https://www.linkedin.com/in/ervinjamesocampo/) | `OSCP` / | [HackTheBox](https://www.hackthebox.eu/home/users/profile/12604)  |
 | [**ar33zy**](https://www.linkedin.com/in/ariz-soriano-a361ba115/) | `GCDA` / `CRTP` | [GitHub](https://github.com/ar33zy) / [Blog](https://ar33zy.hackstreetboys.ph/) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/26849) |
 | [**atom**](https://www.linkedin.com/in/allanjaydumanhug/) | `CEH` / `ECSA` / `OSCP` | [Twitter](https://twitter.com/@ajdumanhug) / [GitHub](https://github.com/ajdumanhug) / [Blog](https://atom.hackstreetboys.ph/) / [HackTheBox](https://www.hackthebox.eu/home/users/profile/55589) |
