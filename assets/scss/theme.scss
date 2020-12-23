@@ -1,0 +1,20 @@
+// Bootstrap setup
+@import "../vendor/bootstrap/scss/functions";
+
+// Theme functions
+@import "leon/functions";
+
+// Theme setup
+@import "leon/variables";
+
+// Custom setup
+@import "user-variables";
+
+// Bootstrap core
+@import '../vendor/bootstrap/scss/bootstrap';
+
+// Theme core
+@import "leon/core";
+
+// User
+@import "user";

@@ -1,0 +1,133 @@
+//
+// website-layout.scss
+// Theme component
+//
+
+.body-overflow-measure {
+  position: relative;
+  height: 200vh;
+}
+
+.home-content {
+  position: relative;
+}
+
+.home-content-inner {
+  position: relative;
+  display: flex;
+  min-height: 100vh;
+  z-index: 10;
+}
+
+.side-content {
+  position: relative;
+  overflow: hidden;
+  z-index: 50;
+  background-color: $white;
+  backface-visibility: hidden;
+}
+
+.side-content-inner {
+  position: relative;
+}
+
+@include media-breakpoint-up(lg) {
+  .home-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+  }
+
+  .home-content-inner {
+    margin-left: 0;
+	max-width: 960px;
+  }
+
+  .home-content > .overlay-advanced .overlay-media {
+    transition: transform .8s cubic-bezier(0.5, 0, 0.2, 1) 0s;
+    will-change: transform;
+  }
+
+  body.side-content-opened .home-content > .overlay-advanced .overlay-media {
+    transform: translate3d(-25vw, 0, 0);
+    transition-delay: 1.05s;
+  }
+
+  .side-content {
+    max-width: 900px;
+    margin-left: auto;
+    transform: translate3d(100%, 0, 0);
+    user-select: none;
+  }
+
+  body.side-layout .side-content {
+    transition: transform .8s cubic-bezier(0.5, 0, 0.2, 1) 0s, box-shadow .8s cubic-bezier(0.5, 0, 0.2, 1) 0s;
+  }
+
+  body.side-layout .side-content.show {
+    user-select: auto;
+    box-shadow: $box-shadow-dark-lg;
+    transform: translate3d(0, 0, 0);
+  }
+
+  .side-content:not(.show) {
+    box-shadow: none !important;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .home-content {
+
+    .stripe-a,
+    .stripe-b {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 3rem;
+      transition: width .8s cubic-bezier(0.5, 0, 0.2, 1) 0s, right .8s cubic-bezier(0.5, 0, 0.2, 1) 0s;
+	}
+
+    .stripe-a {
+      right: 7.5rem;
+      transition-delay: .8s;
+	}
+
+    .stripe-b {
+      right: 3rem;
+      transition-delay: 1.05s;
+	}
+  }
+
+  body.side-content-opened .home-content .stripe-a,
+  body.side-content-opened .home-content .stripe-b {
+    transform: right;
+    width: 0;
+    right: 0;
+  }
+
+  body.side-content-opened .home-content .stripe-a {
+    transition-delay: .25s;
+  }
+
+  body.side-content-opened .home-content .stripe-b {
+    transition-delay: 0s;
+  }
+
+  body.side-layout .side-content {
+    transition-delay: 0s;
+  }
+
+  body.side-layout .side-content.show {
+    transition-delay: 1.05s;
+  }
+
+}
+
+@media(min-width:1400px) {
+  body.home-layout-left .home-content-inner,
+  .side-content {
+    max-width: 50%;
+  }
+}
